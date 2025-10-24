@@ -66,20 +66,13 @@ Below are some example reference images you can use to visualize or populate the
 | Packages     | ![Package 1](assets/package1.jpg) ![Package 2](assets/package2.jpg)                 | Cards showing offers or tour packages.        |
 | Gallery      | ![Gallery 1](assets/gallery1.jpg) ![Gallery 2](assets/gallery2.jpg)                 | Grid layout of travel highlights.             |
 
-## Dependencies
 
-* None (all HTML, CSS, and JavaScript are vanilla).
-
-## Customization
-
-* Replace the image URLs in the hero, destinations, and packages sections with your own images.
-* Adjust colors in `style.css` using the `:root` variables.
-* Add or remove sections as needed.
 
 ## Author
 
-Your Name
+Nidafazli Nalband 
 
 ## License
 
 This project is open source and free to use.
+
