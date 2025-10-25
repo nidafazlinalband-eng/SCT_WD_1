@@ -55,18 +55,6 @@ travel-agency-landing-page/
    ```
 3. Open `http://localhost:8000` in your browser.
 
-## Example Images
-
-Below are some example reference images you can use to visualize or populate the project:
-
-| Section      | Image                                                                               | Description                                   |
-| ------------ | ----------------------------------------------------------------------------------- | --------------------------------------------- |
-| Hero Section | ![Hero Section](assets/hero.jpg)                                                    | Beautiful mountain or beach travel banner.    |
-| Destinations | ![Destination 1](assets/destination1.jpg) ![Destination 2](assets/destination2.jpg) | Showcase top destinations with hover effects. |
-| Packages     | ![Package 1](assets/package1.jpg) ![Package 2](assets/package2.jpg)                 | Cards showing offers or tour packages.        |
-| Gallery      | ![Gallery 1](assets/gallery1.jpg) ![Gallery 2](assets/gallery2.jpg)                 | Grid layout of travel highlights.             |
-
-
 
 ## Author
 
@@ -75,4 +63,5 @@ Nidafazli Nalband
 ## License
 
 This project is open source and free to use.
+
 
