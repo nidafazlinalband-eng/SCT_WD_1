@@ -4,8 +4,8 @@
 
 TravelAmaze is a responsive landing page for a travel agency, featuring a fixed interactive navigation menu, smooth scrolling, hover effects, and section-based transitions. The design is optimized for desktop and mobile devices.
 
-...
-🔗 **Live Website:** [https://nidafazlinalband-eng.github.io/Responsive_Landing_Page/]
+
+##🔗 Live Website: [https://nidafazlinalband-eng.github.io/Responsive_Landing_Page/]
 
 
 ## Features
