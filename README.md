@@ -7,7 +7,7 @@ TravelAmaze is a responsive landing page for a travel agency, featuring a fixed 
 
 ## 🔗 Live Website:
 
- [https://nidafazlinalband-eng.github.io/Responsive_Landing_Page/]
+ [https://nidafazli-nalband.github.io/Responsive_Landing_Page/]
 
 
 ## Features
@@ -69,5 +69,6 @@ Nidafazli Nalband
 ## License
 
 This project is open source and free to use.
+
 
 
